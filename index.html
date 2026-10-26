@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Webtech - Film Facts</title>
+<link rel="stylesheet" href="film.css">
+</head>
+<body>
+
+<div class="grid-container">
+    <header class="header">
+        <img src="film.png" alt="WebTech logo" width="120" height="100">
+        <h1>Film Facts by Webtech</h1>
+    </header>
+
+    <main class="main">
+        <div class="box">
+            <h2>Find a Film!</h2>
+
+            <ol>
+                <li>Type the film you would like to know more about and click 'Search'</li>
+                <li>Choose your film from the drop-down list</li>
+                <li>Click "Show Film Facts"</li>
+            </ol>
+           
+            <form id="film-form">
+                <fieldset>
+                <legend>1.Search for a Film</legend> 
+                <label for="search">Film Name:</label>
+                <input type="text" id="search" name="search" placeholder ="Enter a film name...">
+                <input type="button" id="searchButton" value = "Search">
+                </fieldset>
+
+               <fieldset>
+                <legend>2.Select the Film</legend>
+                <label for ="film">Choose a Film:</label>
+                <select id="film" name="film">
+                    <option value="">Search for a Film...</option>
+                 </select>
+               </fieldset>
+
+                <input type="button" id="showButton" value="Show film facts">
+            </form>
+        </div>
+                <div id="film-data" class="box"></div>
+            
+    </main>
+
+    <footer class="footer">
+        <p>Thank you for using Webtech!</p>
+    </footer>
+ </div>
+        
+    <script src="film.js"></script>
+</body>
+</html>

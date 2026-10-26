@@ -1,0 +1,24 @@
+film.html - 
+line 2: https://www.w3schools.com/html/html_accessibility.asp
+line 5: https://www.w3schools.com/css/css_rwd_viewport.asp
+line 7: https://www.w3schools.com/css/css_howto.asp
+line 11-59: https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_styles
+line 28-51: https://www.w3schools.com/html/html_form_elements.asp
+line 52: https://www.w3schools.com/html/html_form_input_types.asp
+line 61: https://www.w3schools.com/js/js_whereto.asp
+
+film.css -
+line 1 + Line 12-24 : https://www.w3schools.com/css/css_rwd_grid.asp
+line 65-137:https://www.w3schools.com/css/tryit.asp?filename=trycss_forms  & https://www.w3schools.com/css/css_pseudo_classes.asp
+line 140-149: https://www.w3schools.com/css/tryit.asp?filename=tryresponsive_breakpoints
+All formatting ei Margins etc using : https://www.w3schools.com/css/default.asp
+
+film.js - 
+line 9:https://www.w3schools.com/js/js_loop_for.asp
+line 12: https://www.w3schools.com/js/js_assignment.asp
+line 35+36: https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+General refs for js:
+used throughout: 5.5 Micro Lecture on Blackboard
+line 8 +24: just for cleaness
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_geolocation
+https://medium.com/@yuvaraj.io/lesson-57-http-requests-responses-and-json-in-javascript-a87754fd4788
